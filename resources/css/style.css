@@ -1,3 +1,60 @@
-git remote add origin https://github.com/berez1979/excursion.git
-git branch -M main
-git push -u origin main
+body {
+background-color: black;
+text-align: center;
+grid-auto-flow: column;
+
+}
+
+header {
+    font-family: 'Verdana';
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    position: static;
+}
+
+top_link {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+slide_video {
+    position: static;
+}
+
+main_text {
+    font-family: 'Verdana';
+    font-weight: 300;
+    font-size: 42px;
+}
+
+h3 {
+    font-family: 'Verdana';
+    font-size: 21px;
+    color: gray;
+}
+
+biwak {
+    position: center;
+}
+
+phone {
+    position: center;
+}
+
+publicity {
+    font-family: 'Verdana';
+    font-weight: 300;
+    font-size: 42px;
+    position: center;
+}
+
+down_link {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+footer {
+    text-align: right;
+    color: gray;
+}
