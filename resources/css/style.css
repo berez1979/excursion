@@ -16,10 +16,6 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 16px;
 }
 
-.loop {
-    
-}
-
 .main_text {
     color: white;
     font-weight: 300;
@@ -55,4 +51,5 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
 footer {
     text-align: right;
     color: gray;
+    font-size: 21px;
 }
